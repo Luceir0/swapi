@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.page-number {
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
